@@ -1,0 +1,23 @@
+{
+  "name": "pn-blog",
+  "version": "1.0.0",
+  "description": "node+express+MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaobie123/pN-blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaobie123/pN-blog/issues"
+  },
+  "homepage": "https://github.com/xiaobie123/pN-blog#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  }
+}
